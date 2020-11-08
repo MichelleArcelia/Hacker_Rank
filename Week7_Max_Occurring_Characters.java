@@ -10,8 +10,6 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-
-
     /*
      * Complete the 'maximumOccurringCharacter' function below.
      *
@@ -20,10 +18,6 @@ import static java.util.stream.Collectors.toList;
      */
 
 class Result {
-    
-
-    
-    
     
 //-------ASCII character are 256 so starting off our Hash array size = 256------
 
@@ -73,7 +67,6 @@ class Result {
     //    System.out.println("Max Occuring Character = " + maximumOccurringCharacter(text));
         
    // }
-
 
 }
 
